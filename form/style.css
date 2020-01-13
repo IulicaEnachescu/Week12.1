@@ -1,0 +1,34 @@
+input[type="submit"]
+{
+    border: none;
+    background-color: white;
+    box-shadow: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 100%;
+    border: none;
+}
+
+.inner
+{
+    display: inline-block;
+    transform: rotate(5deg);
+    border-radius: 100%;
+    border: 2px solid green;
+    border-left-color: lightgreen;
+    border-top-color: lightgreen;
+}
+
+.outer
+{
+    display: inline-block;
+    border-radius: 100%;
+    transform: rotate(-12deg);
+    border: 2px solid green;
+    border-left-color: lightgreen;
+    border-bottom-color: lightgreen;
+}
+
+.bold
+{
+    font-weight: bold;
+}

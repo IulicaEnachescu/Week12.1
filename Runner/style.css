@@ -1,0 +1,13 @@
+
+
+ul.profile-data
+{
+    list-style-type: none;
+    padding: 20px;
+}
+
+ul.profile-data > li
+{
+    list-style-type: none;
+    padding-bottom: 3px;
+}

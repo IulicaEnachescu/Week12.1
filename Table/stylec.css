@@ -1,0 +1,41 @@
+img
+{
+    width: 10em;
+}
+
+/* table.fresh-fruits > td
+{
+    width: 250px;
+}
+*/
+h1#fresh-fruits-title
+{
+    text-align: center;
+    font-style: italic;
+}
+
+table#second-table
+{
+    border: 1px outset;
+}
+
+td.second-table-column
+{
+    border: 1px inset;
+    width: 30px;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.right
+{
+    text-align: right;
+}
+
+.bottom
+{
+    vertical-align: bottom;
+}
